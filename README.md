@@ -1,42 +1,57 @@
-# Hi there 👋 I'm Loreto
+# 🌟 Loreto Anguita Alonso  
 
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. 
+**👩‍💻 Project Manager | Innovator | Tech Enthusiast | Advocate for Social Impact**
 
-The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. 
+---
 
-## Subtitle
+## 👋 Welcome to My GitHub!
 
-Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)
+Hi there! I'm Loreto, a passionate **Project Manager** with a knack for solving complex problems and driving meaningful change through technology and innovation. My journey spans across the defense industry, tech innovation ecosystems, and non-profit organizations, blending **business strategy**, **project development**, and **human-centered design** to deliver impactful results.
 
-- item 1
-- item 2
-  - sub item
-- item **other**
+---
 
-1. item 1
-2. item 2
+## 🔍 About Me
 
-> Importante:
->
-> no olvidar: ......
+### 🌐 **Professional Highlights**
+- 🚀 **Project Management Expertise:** Worked with top organizations like NATO, RAF, and NGOs, leading initiatives that blend strategy, innovation, and execution.
+- 💡 **Tech Innovator:** Co-founded and scaled a SaaS company serving UK defense companies and government entities like MI5 and GCHQ.
+- 🌍 **Social Impact Advocate:** Managed projects for Kipepeo Tanzania, improving infrastructure and tech access for vulnerable communities.
+- 🤝 **Life-Long Learner:** Currently learning software development with a focus on **full-stack**.
 
+---
 
-## Codigo
-```html
-<!DOCTYPE html>
-<HTML>
-  <head>
-    <title>Mi primer WEB</title>
-  </head>
-  <body>
-    <div id="una capa">
-      <h1>Hola mundo!</h1>
-      <p>Este es un ejemplo del uso de HTML para crear un documento web que nuestro navegador es capaz de interpretar.</p>
-    </div>
-  </body>  
-</HTML>
-```
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
+## 🛠️ What You'll Find Here
+As I'm just starting my coding journey, my GitHub will showcase:
+- **Learning Progress:** Simple projects and exercises as I master full-stack development.
+- **Collaborative Work:** Contributions to beginner-friendly open-source projects.
+- **Future Goals:** Applications that blend my skills in project management and programming.
 
+---
 
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+## 📚 Current Goals
+1. Building a strong foundation in **front-end and back-end development**.
+2. Completing hands-on projects to strengthen my coding skills.
+3. Creating tools and applications that solve real-world problems in the **defense** and **non-profit** sectors.
+
+---
+
+## 🧰 Tools & Tech I Work With
+- **Project Management:** Jira, Asana, Trello  
+- **Innovation Frameworks:** Design Thinking, Lean Startup  , Agile
+- **Front-End:** HTML, CSS, JavaScript  
+- **Back-End:** Node.js, Express.js  
+- **Databases:** MongoDB, SQL  
+
+---
+
+## 🎯 Let's Connect!
+
+- **LinkedIn:** [Loreto Anguita Alonso](https://www.linkedin.com/in/loretoanguitaalonso)  
+- **Email:** [loreto16@hotmail.es](mailto:loreto16@hotmail.es)  
+- **Fun Fact:** I thrive on challenges, whether it's managing complex projects or debugging my first lines of code!  
+
+---
+
+## 🌟 Thank You for Stopping By!
+Feel free to explore my repositories, share feedback, or reach out if you’d like to collaborate on a project. Let’s build something amazing together!
+
