@@ -2,13 +2,15 @@
 
 **👩‍💻 Project Manager | Innovator | Tech Enthusiast | Advocate for Social Impact**
 
----
+
+
 
 ## 👋 Welcome to My GitHub!
 
 Hi there! I'm Loreto, a passionate **Project Manager** with a knack for solving complex problems and driving meaningful change through technology and innovation. My journey spans across the defense industry, tech innovation ecosystems, and non-profit organizations, blending **business strategy**, **project development**, and **human-centered design** to deliver impactful results.
 
----
+
+
 
 ## 🔍 About Me
 
@@ -18,7 +20,8 @@ Hi there! I'm Loreto, a passionate **Project Manager** with a knack for solving 
 - 🌍 **Social Impact Advocate:** Managed projects for Kipepeo Tanzania, improving infrastructure and tech access for vulnerable communities.
 - 🤝 **Life-Long Learner:** Currently learning software development with a focus on **full-stack**.
 
----
+
+
 
 ## 🛠️ What You'll Find Here
 As I'm just starting my coding journey, my GitHub will showcase:
@@ -26,14 +29,16 @@ As I'm just starting my coding journey, my GitHub will showcase:
 - **Collaborative Work:** Contributions to beginner-friendly open-source projects.
 - **Future Goals:** Applications that blend my skills in project management and programming.
 
----
+
+
 
 ## 📚 Current Goals
 1. Building a strong foundation in **front-end and back-end development**.
 2. Completing hands-on projects to strengthen my coding skills.
 3. Creating tools and applications that solve real-world problems in the **defense** and **non-profit** sectors.
 
----
+
+
 
 ## 🧰 Tools & Tech I Work With
 - **Project Management:** Jira, Asana, Trello  
@@ -42,7 +47,7 @@ As I'm just starting my coding journey, my GitHub will showcase:
 - **Back-End:** Node.js, Express.js  
 - **Databases:** MongoDB, SQL  
 
----
+
 
 ## 🎯 Let's Connect!
 
@@ -50,7 +55,8 @@ As I'm just starting my coding journey, my GitHub will showcase:
 - **Email:** [loreto16@hotmail.es](mailto:loreto16@hotmail.es)  
 - **Fun Fact:** I thrive on challenges, whether it's managing complex projects or debugging my first lines of code!  
 
----
+
+
 
 ## 🌟 Thank You for Stopping By!
 Feel free to explore my repositories, share feedback, or reach out if you’d like to collaborate on a project. Let’s build something amazing together!
