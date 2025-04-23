@@ -1,63 +1,67 @@
 # 🌟 Loreto Anguita Alonso  
 
-**👩‍💻 Project Manager | Innovator | Tech Enthusiast | Advocate for Social Impact**
+**👩‍💻 Full-Stack Developer (in progress) | Ex Project Manager | Tech Innovator | Advocate for Social Impact**
 
-
-
+---
 
 ## 👋 Welcome to My GitHub!
 
-Hi there! I'm Loreto, a passionate **Project Manager** with a knack for solving complex problems and driving meaningful change through technology and innovation. My journey spans across the defense industry, tech innovation ecosystems, and non-profit organizations, blending **business strategy**, **project development**, and **human-centered design** to deliver impactful results.
+Hi there! I'm Loreto, a passionate **project manager turned full-stack developer**. My background spans across the defense industry, tech innovation ecosystems, and non-profits, where I’ve used **business strategy**, **project development**, and **human-centered design** to lead meaningful change.
 
+Now, I'm diving deep into **software development**, building tools and applications that combine strategy, design, and code.
 
-
+---
 
 ## 🔍 About Me
 
 ### 🌐 **Professional Highlights**
-- 🚀 **Project Management Expertise:** Worked with top organizations like NATO, RAF, and NGOs, leading initiatives that blend strategy, innovation, and execution.
-- 💡 **Tech Innovator:** Co-founded and scaled a SaaS company serving UK defense companies and government entities like MI5 and GCHQ.
-- 🌍 **Social Impact Advocate:** Managed projects for Kipepeo Tanzania, improving infrastructure and tech access for vulnerable communities.
-- 🤝 **Life-Long Learner:** Currently learning software development with a focus on **full-stack**.
+- 🚀 **Tech Project Leader:** Led digital innovation projects for RAF and startups in health, policing, and defense.
+- 💡 **Startup Founder:** Built and scaled a SaaS platform for vetting automation used by UK government entities like MI5 and GCHQ.
+- 🌍 **NGO Manager:** Directed infrastructure and tech projects for an development NGO in Tanzania, including the creation of a web platform.
+- 🤓 **Aspiring Developer:** Currently learning **full-stack development** (HTML, CSS, JavaScript, Python, React, APIs, MySQL).
 
-
-
+---
 
 ## 🛠️ What You'll Find Here
-As I'm just starting my coding journey, my GitHub will showcase:
-- **Learning Progress:** Simple projects and exercises as I master full-stack development.
-- **Collaborative Work:** Contributions to beginner-friendly open-source projects.
-- **Future Goals:** Applications that blend my skills in project management and programming.
 
+As I transition into software development, this GitHub will include:
+- **Learning Projects:** Exercises, small applications, and experiments in web development.
+- **Personal Projects:** Real-world platforms built with full-stack tools (like [Kipepeo Tanzania](https://github.com/Loretoaa16/kipepeo-platform)).
+- **Open-Source Contributions:** As I grow, I’ll collaborate with others to learn and build together.
 
-
+---
 
 ## 📚 Current Goals
-1. Building a strong foundation in **front-end and back-end development**.
-2. Completing hands-on projects to strengthen my coding skills.
-3. Creating tools and applications that solve real-world problems in the **defense** and **non-profit** sectors.
 
+1. Master both front-end and back-end technologies  
+2. Build real applications from scratch  
+3. Use my coding skills to improve tools in **education**, **defense**, and **social impact** fields  
 
-
+---
 
 ## 🧰 Tools & Tech I Work With
-- **Project Management:** Jira, Asana, Trello  
-- **Innovation Frameworks:** Design Thinking, Lean Startup  , Agile
-- **Front-End:** HTML, CSS, JavaScript  
-- **Back-End:** Node.js, Express.js  
-- **Databases:** MongoDB, SQL  
 
+**Development:**  
+HTML | CSS | JavaScript | Bootstrap | React | Python | Flask | Django | Node.js | MySQL | REST APIs  
 
+**Project & Design:**  
+Jira | Git | GitHub | Asana | Confluence | Figma  
 
-## 🎯 Let's Connect!
+**Methodologies:**  
+Design Thinking | Lean Startup | Agile  
+
+---
+
+## 🎯 Let’s Connect
 
 - **LinkedIn:** [Loreto Anguita Alonso](https://www.linkedin.com/in/loretoanguitaalonso)  
 - **Email:** [loreto16@hotmail.es](mailto:loreto16@hotmail.es)  
-- **Fun Fact:** I thrive on challenges, whether it's managing complex projects or debugging my first lines of code!  
+- **GitHub:** [@Loretoaa16](https://github.com/Loretoaa16)  
 
+---
 
+## ✨ Thanks for Stopping By!
 
+Feel free to explore my repos, leave feedback, or reach out. I’m always open to learning, sharing ideas, or collaborating on projects with purpose.
 
-## 🌟 Thank You for Stopping By!
-Feel free to explore my repositories, share feedback, or reach out if you’d like to collaborate on a project. Let’s build something amazing together!
-
+Let’s code for change!
