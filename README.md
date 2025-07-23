@@ -26,7 +26,7 @@ Now, I'm diving deep into **software development**, building tools and applicati
 
 As I transition into software development, this GitHub will include:
 - **Learning Projects:** Exercises, small applications, and experiments in web development.
-- **Personal Projects:** Real-world platforms built with full-stack tools (like [Kipepeo Tanzania](www.kipepeo.ngo)).
+- **Personal Projects:** Real-world platforms built with full-stack tools (like [Kipepeo Tanzania](https://kipepeo.ngo)).
 - **Open-Source Contributions:** As I grow, I’ll collaborate with others to learn and build together.
 
 ---
